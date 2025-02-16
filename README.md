@@ -7,7 +7,7 @@
 ---  
 
 ## **SUMMARY**  
-Mobile Developer with **6+ years of experience**, specializing in **Flutter, **Android, iOS**, and integrating **Flutter modules into native apps**. Proficient in **Clean Architecture**, state management using **Bloc, GetX**, and implementing **payment gateways (Stripe, Momo, Onepay)**. Worked with both large corporations and startups, ensuring **high-performance and scalable** applications.  
+Mobile Developer with **6+ years of experience**, specializing in **Flutter**, **Android, iOS**, and integrating **Flutter modules into native apps**. Proficient in **Clean Architecture**, state management using **Bloc, GetX**, and implementing **payment gateways (Stripe, Momo, Onepay)**. Worked with both large corporations and startups, ensuring **high-performance and scalable** applications.  
 
 ---  
 
