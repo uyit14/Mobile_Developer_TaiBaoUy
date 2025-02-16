@@ -7,10 +7,19 @@
 ---  
 
 ## **SUMMARY**  
-Mobile Developer with **6+ years of experience**, specializing in **Flutter, Android**, and integrating **Flutter modules into native apps**. Proficient in **Clean Architecture**, state management using **Bloc, GetX**, and implementing **payment gateways (Stripe, Momo, Onepay)**. Worked with both large corporations and startups, ensuring **high-performance and scalable** applications.  
+Mobile Developer with **6+ years of experience**, specializing in **Flutter, Android**, iOS**, and integrating **Flutter modules into native apps**. Proficient in **Clean Architecture**, state management using **Bloc, GetX**, and implementing **payment gateways (Stripe, Momo, Onepay)**. Worked with both large corporations and startups, ensuring **high-performance and scalable** applications.  
 
 ---  
 
+## **TECHNICAL SKILLS**  
+✅ **Languages**: Dart, Java, Kotlin, Swift, JavaScript, TypeScript.  
+✅ **Frameworks**: Flutter, Android, React Native, VueJS.  
+✅ **APIs/SDKs**: Firebase, Facebook SDK, Google SDK, Google Maps.  
+✅ **Architecture**: Clean Architecture, Bloc, GetX.  
+✅ **Payment Gateways**: Stripe, Onepay, Momo.  
+✅ **Testing**: Unit Test, UI Test, Integration Test.  
+
+---  
 ## **WORK EXPERIENCE**  
 ### **Joblogic** – Mobile Developer *(08/2022 - Present)*  
 - Developed **Flutter modules** integrated into **Android & iOS native projects**.  
@@ -46,16 +55,6 @@ Cycling and running support application.
 Control module for **Samsung The Wall TV** using **Flutter**.  
 - **Tech Stack**: Flutter, Dart, Platform Channel, Clean Architecture.  
 - **Contributions**: Developed features and optimized performance.  
-
----  
-
-## **TECHNICAL SKILLS**  
-✅ **Languages**: Dart, Java, Kotlin, JavaScript, Swift, TypeScript.  
-✅ **Frameworks**: Flutter, Android, React Native.  
-✅ **APIs/SDKs**: Firebase, Facebook SDK, Google SDK, Google Maps.  
-✅ **Architecture**: Clean Architecture, Bloc, GetX.  
-✅ **Payment Gateways**: Stripe, Onepay, Momo.  
-✅ **Testing**: Unit Test, UI Test, Integration Test.  
 
 ---  
 
